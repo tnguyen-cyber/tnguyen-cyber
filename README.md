@@ -19,7 +19,7 @@
 ---
 <p align="center">🚧 Under Construction</p>
 
-### Projects 
+### Projects
 
 - [Cyberdeck](#projects) (Ongoing)
 - [Network Architecture & Security](#projects)
@@ -34,7 +34,7 @@
   -  [Windows Server](#projects)
   -  [Ubuntu Server](#projects)
   -  [Kali Linux](#projects)    
-
+<p align="center">🚧 Under Construction</p>
 
 <!--
 |   This is the list (non-exhaustive) of my skills and tools I am studying! 
