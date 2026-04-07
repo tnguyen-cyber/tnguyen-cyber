@@ -24,7 +24,7 @@
 - [Cyberdeck](#projects) (Ongoing)
 - [Network Architecture & Security](#projects)
 - [Automation](#projects)
-  - [LaunchWizards](#projects)
+  - [Media Staging](#projects)
   - [Shopify CDN](#projects) 
 - [Azure Cloud Security](#projects) 
 - [Penetration Testing](#projects)
