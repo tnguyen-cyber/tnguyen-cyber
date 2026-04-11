@@ -28,16 +28,16 @@
   - [Shopify CDN](https://github.com/tnguyen-cyber/automations/tree/main/smb-shopify-cdn) 
 - [Azure Cloud Security](https://github.com/tnguyen-cyber/azure-cloud-security) 
 - [Penetration Testing](https://github.com/tnguyen-cyber/penetration-testing)
-  -  [MegaCorp & Rekall](https://github.com/tnguyen-cyber/megacorp-rekall)
-  -  [RouterSploit](https://github.com/tnguyen-cyber/routersploit)
+  -  [MegaCorp & Rekall](https://github.com/tnguyen-cyber/penetration-testing/tree/main/megacorp-rekall)
+  -  [RouterSploit](https://github.com/tnguyen-cyber/penetration-testing/tree/main/routersploit)
 - [Systems Administration](https://github.com/tnguyen-cyber/sysadmin)
-  -  [Windows Server](https://github.com/tnguyen-cyber/windows-server)
-  -  [Ubuntu Server](https://github.com/tnguyen-cyber/ubuntu-server)
-  -  [Kali Linux](https://github.com/tnguyen-cyber/kali-linux)    
+  -  [Windows Server](https://github.com/tnguyen-cyber/sysadmin/tree/main/windows-server)
+  -  [Ubuntu Server](https://github.com/tnguyen-cyber/sysadmin/tree/main/ubuntu-server)
+  -  [Kali Linux](https://github.com/tnguyen-cyber/sysadmin/tree/main/kali-linux)    
 <p align="center">🚧 Under Construction</p>
 
 <!--
-|   This is the list (non-exhaustive) of my skills and tools I am studying! 
+|   This is a list (non-exhaustive) of my skills and tools I am studying! 
 -->
 
 ### Skills
